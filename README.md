@@ -59,6 +59,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
+
+![Fun Translate App - Google Chrome 03_10_2022 11_34_24](https://user-images.githubusercontent.com/109124944/193655976-74a7f7c4-0df6-4779-b6b4-f6c9e709ff36.png)
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
