@@ -2,7 +2,7 @@
 
 <h4>This app will Tell you about meaning of emojies
 
-This project is part of neog.camp. It is mark eight Emopedia.</h4>
+This project is part of neog.camp. It is mark eight know you emojis.</h4>
 
 
 
